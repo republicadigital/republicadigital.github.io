@@ -1,0 +1,30 @@
+body {
+  font-size: 1.3rem;
+  font-family:'Work Sans', sans-serif; 
+  background-image: url('asset/img/bg.jpg');
+background-size: 356px 738px;
+ 
+}
+.hero {
+  min-height: 100vh;
+}
+.hero h3 {
+  
+  font-family: 'Sacramento', cursive;;
+  font-size: 4rem;
+}
+.hero h5 {
+  font-size: 1.2rem;
+  margin-top: 3px;
+}
+.hero p {
+  font-size: 1rem;
+  margin-bottom: -13px;
+}
+.hero a {
+  color: #ffffff;
+  background-color:#EE82EE ;
+ 
+}
+
+
